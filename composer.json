@@ -1,5 +1,5 @@
 {
-    "name": "cses-php",
+    "name": "pylxu/cses-php",
     "description": "CSES access framework for PHP",
     "type": "library",
     "require": {
