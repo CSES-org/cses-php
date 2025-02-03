@@ -1,0 +1,21 @@
+{
+    "name": "cses-php",
+    "description": "CSES access framework for PHP",
+    "type": "library",
+    "require": {
+        "php": "^7.4 || ^8.0",
+        "symfony/yaml": "^5.4 || ^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "CSES\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "PYLU",
+            "email": "e-pylxu@outlook"
+        }
+    ]
+}
