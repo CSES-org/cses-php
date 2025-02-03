@@ -2,7 +2,7 @@
 
 [![PHP Version](https://img.shields.io/badge/PHP-7.4%2B-blue.svg)](https://php.net)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Packagist Version]([https://img.shields.io/packagist/v/yourname/cses-php](https://packagist.org/packages/pylxu/cses-php))]([https://packagist.org/packages/yourname/cses-php](https://packagist.org/packages/pylxu/cses-php))
+[![Packagist Version]([https://img.shields.io/packagist/v/pylxu/cses-php](https://packagist.org/packages/pylxu/cses-php))]([https://packagist.org/packages/yourname/cses-php](https://packagist.org/packages/pylxu/cses-php))
 
 用于解析和生成 CSES（Curriculum Schedule Exchange Standard）课程表格式的PHP库
 
