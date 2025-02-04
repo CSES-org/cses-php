@@ -13,7 +13,7 @@
 通过 Composer 安装：
 
 ```bash
-composer require yourname/cses-php
+composer require pylxu/cses-php
 ```
 
 ## 🚀 快速开始
