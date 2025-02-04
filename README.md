@@ -106,7 +106,7 @@ schedules:
 ```
 
 ## ⚠️ 注意事项
-1. 时间格式必须使用 `HH:MM` 24小时制
+1. 时间格式必须使用24小时制
 2. `enable_day` 只接受标准英文缩写：mon/tue/wed/thu/fri/sat/sun
 3. 周次类型 `weeks` 可选值：
    - `all`: 每周
